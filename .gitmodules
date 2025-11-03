@@ -1,0 +1,6 @@
+[submodule "tro-hub-fe"]
+	path = tro-hub-fe
+	url = https://github.com/VietDSK6/tro-hub-fe.git
+[submodule "tro-hub-be"]
+	path = tro-hub-be
+	url = https://github.com/VietDSK6/tro-hub-be.git
